@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+.idea/
+*.iml
+reports/
+screenshots/
+logs/
+test-output/
+allure-results/
+.DS_Store
